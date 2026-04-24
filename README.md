@@ -6,4 +6,6 @@ My current research focuses on **global human mesh recovery** and **humanoid who
 
 I am currently also a **Research Intern at Ant Group**, mentored by [Zehong Shen](https://zehongs.github.io/).
 
-You can reach me at [weidingkun@zju.edu.cn](mailto:weidingkun@zju.edu.cn).
+- Homepage: [kune1008.github.io](https://kune1008.github.io/)
+- Email: [weidingkun@zju.edu.cn](mailto:weidingkun@zju.edu.cn)
+- GitHub: [kune1008](https://github.com/kune1008)
